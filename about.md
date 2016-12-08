@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Здесь информация кто я такой
 
-### More Information
+### История
 
-A place to include any other types of information that you'd like to include about yourself.
+Моя история жизни
 
-### Contact me
+### Контакты
 
-[email@domain.com](mailto:email@domain.com)
+[Я вконтакте](https://vk.com/nail_kasi)
